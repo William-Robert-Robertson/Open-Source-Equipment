@@ -1,4 +1,4 @@
-Praxis 1
+# Praxis 1
 
 Precision machining:
 Divider
@@ -97,8 +97,88 @@ M14 X 2 tap
 
 Removed from Praxis 1:
 
-X Computer monitor / computer screen 600 X 340 mm Samsung S27C450 + DVI-D lead + DisplayPorr lead (NB the monitor does not have an HDMI port so cannot connect directly to RPi, etc.) -> SGMK
+X Computer monitor / computer screen 600 X 340 mm Samsung S27C450 + DVI-D lead + DisplayPort DP lead (NB the monitor does not have an HDMI port so cannot connect directly to RPi, etc.) -> SGMK
 
 X Precision drill chuck + key -> Chainsaw toolbox
 X Tiny precision drill chuck + colettes -> Chainsaw toolbox
 X Spare propane jets for pizza oven -> Chainsaw toolbox
+
+########################################
+# SGMK – Schweizerische Gesellschaft für Mechatronische Kunst
+########################################
+
+Computer monitor / computer screen 600 X 340 mm Samsung S27C450 + DVI-D lead + DisplayPort DP lead (NB the monitor does not have an HDMI port so cannot connect directly to RPi, etc. - for this please use adapter below)
+HDMI to DP Adapter cable 
+z240 computer
+
+SilverCrest ice cream machine - 0.5 l
+Victron SmartSolar charge controller MPPT 75 15 (intgrated bluetooth) x2
+SikaTack Drive 300ml - in freezer
+
+########################################
+# In WildCamera box - SGMK – Schweizerische Gesellschaft für Mechatronische Kunst
+########################################
+
+HDMI to HDMI lead
+HDMI to DVI-D lead converter
+DVI-D to DVI-D lead
+HDMI to HDMI mini converter (for RPi SBC)
+RPi 4 B x2
+RPi 4 B - broken x1
+
+PG11 Cable glands - plastic - "IP68" (not certified)
+PG9 Cable glands - plastic - "IP68" (not certified)
+PG7 Cable glands - plastic - "IP68" (not certified)
+
+c. PG 11? cable gland - metal x1 (not certified)
+PG7 cable gland - metal x3 (not certified)
+
+Breadboard - reichelt.de
+Ribon cable and jumpers for breadboard - Rainbow
+Breadboard (⚠ unknown maker) with RPi GPIO Extension Board, ADS1115 (not certified) and optoisolator (not certified)
+
+Cone drills - set of 3
+
+Earplugs
+
+Solar Panel - Photovoltaeic panel connectors - + positive - MC 
+
+Earplugs
+
+Crimp set - Crimpzangen-set - Du Pont - 2.54 mm
+1x1P to 1x10P
+XH-2Y to XH-6Y
+XH-2A to XH-6A
+PCB headers
+Crimp tool
+
+Optical filter - UV - 62 mm - Kenko x3
+Optical filter - UV - 72 mm - Kenko x3
+
+Optical filter - UV - 77 mm - dHD x2
+Optical filter - UV - 62 mm - dHD x2
+
+Scame 686.226 box 150x110x70 mm - IP56
+
+Diverse Hall Effect current measurement ICs
+WCS 1800 (not certified)
+ACS758LCB (not certified)
+ACS7121 (not certified)
+
+Breadboard with 
+GPIO expansion board
+MAX31865 (not certified)
+Optoisolator
+FET
+
+JoyIt joy-it.net
+USB Power and energy Meter
+
+7 Inch LCD display 800x480 Pixel - USB touch
+HDMI lead - short
+HDMI to mini HDMI converter
+PIR - wide angle
+PIR
+
+SanDisk SD Card - 32 GB
+
