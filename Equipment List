@@ -37,6 +37,47 @@ Audio amplifier modules - low power, small speakers, 3.5 mm leads 3 pole and 4 p
 HPCL-7800A Isolation Amplifier
 TCS34725 RGB Sensor
 Small axial fans - 12v 
+LEDs
+Diodes
+
+# Refractory
+# Electrodes
+# Heat Sinks
+# Thermoelectric
+# SSRs
+Kanthal alloy FeCrAl heating elements - 220 V 3000 W
+Kanthal alloy FeCrAl heating elements - lower power than above
+Royer oscilator - ZVS oscilator for induction heater - 12 to 48 V
+Thermomentry:
+  Temperature sensors - Pt100, thermocouple and analog Vout, thermocouple connectors
+  AD8495 - Adafruit
+  MAX6675
+  MAX31865
+Aluminium water blocks for heat sinks
+Carbon electrodes - short
+Carbon electrodes . long
+Carbon electrodes - narrow
+Steel electrodes
+Silicone heatsink pad / Heatsink Gasket
+Heatsink paste
+Glass fiber insulation tube - 600 °C 10mm
+Glass fiber insulation tube - 600 °C 8mm
+DC circuit breaker 40 A double pole
+DC circuit breaker 10 A singloe pole
+K Type thermocouple for furnace
+Alumina plate
+Peltier effect devices
+Nickel Ni electrodes
+Platinum electrode 5.0 um
+Graphite crucible
+Small ceramic crucibles
+Aluminium heat sinks
+Ceramic insulating beads c. 20 mm outer diameter
+Ceramic crucibles - cylindrycal -2 sizes
+Carbon fiber heating wire
+240 V metal encapsulated heater
+c. 3mm diameter alumina rods - ceramic rods
+c. 4 mm outder diameter alumina tuble - ceramic tube
 
 # WildCamera box
 Automotive Fuses
