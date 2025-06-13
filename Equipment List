@@ -1,4 +1,48 @@
 ########################################
+# Bitwäscherei / SGMK
+########################################
+
+# Sensors
+8 x electromechanical relay board - optoisolated - low level input
+12 v car cigarette lighter pulugs and sockets
+12 v car cigarette lighter lead
+Ceramic heater - small
+10 W 12 V 395-400 nm LED
+USB connectors
+26 way ribbon cable and DIL IDC connectors
+40 way ribbon cable and DIL IDC connectors
+Pt100
+Pt100 in steel sheath
+Resistors - diverse
+RPi B+ Raspeberry Pi Model B+ V1 2
+40 way Ribbon Cable to breadboard converter for RPi
+40 way rainbow ribbon cable
+Heatshrink tubing - diverse - low quality
+Heatshrink tubing - diverse - small
+Soil Moisture sensors
+ADCs Analog to Digital Converters
+pH to Analog Vout
+Load Cell
+Air Quality,, - laser - diverse
+MQ gas aensors - diverse
+USB to Serial (USB to UART)
+pH probe
+FQP30N06L
+IRF3708
+MOSFETS - diverse - including FakeFET
+SCRs </ TRIACs - diverse
+RPi - Raspberry Pi - original (26 was DIL)
+FQP30N06L 3.3v FET
+Audio amplifier modules - low power, small speakers, 3.5 mm leads 3 pole and 4 pole
+HPCL-7800A Isolation Amplifier
+TCS34725 RGB Sensor
+Small axial fans - 12v 
+
+# WildCamera box
+Automotive Fuses
+Fuses, fuse holders, thermal fuses, MOVs - diverse 
+
+########################################
 # Praxis 1
 ########################################
 
