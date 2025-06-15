@@ -39,6 +39,7 @@ TCS34725 RGB Sensor
 Small axial fans - 12v 
 LEDs
 Diodes
+L298N, ULN2003 and DRV8825 Motor Controllers - Stepper Motor Controllers
 
 # Refractory
 # Electrodes
