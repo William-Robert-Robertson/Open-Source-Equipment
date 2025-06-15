@@ -43,6 +43,12 @@ TCS34725 RGB Sensor
 Small axial fans - 12v 
 LEDs
 Diodes
+DC-DC Converters Under 1 kW 
+  MP1584
+  LM2596 (Buck Converters - Step Down Converters)
+  Linear Voltage Regulators 3.3 V - LM2937 500mA and L78L33 - Origin: Reichelt Elektronik GmbH
+  Isolated 5V In to 5V Out B0505S
+  SIL Header
 L298N, ULN2003 and DRV8825 Motor Controllers - Stepper Motor Controllers
 
 # Refractory
@@ -83,6 +89,10 @@ Carbon fiber heating wire
 240 V metal encapsulated heater
 c. 3mm diameter alumina rods - ceramic rods
 c. 4 mm outder diameter alumina tuble - ceramic tube
+Ceramic terminal blocks - 250 V 3 way x6
+220 V 1500 W FeCrAl Kanthal heating elements
+Ceramic Insulator Beads
+Platinum Rhodium PtRh Thermocouple WRP-100 Type S 0 to 1300 °C 1500mm
 
 # Industrial Electrical
 # Pumps
@@ -176,6 +186,7 @@ Dessicant Gel sachets
 Hand held dligital timer
 pH Mater - hand-held - analog
 Diaphragm Pump - not spelled Diaphram Pump - 12V DC - 7.00 to 8.25 mm inout and output connections
+Innoculation loops 1mm and 2mm and Innoculation Loop Handle holder
 
 FeCrAl Furnace - Kanthal Furnace
 Breadboard with: 
