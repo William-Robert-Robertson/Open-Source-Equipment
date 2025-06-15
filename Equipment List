@@ -22,6 +22,30 @@ SilverCrest
 Popcorn Machine
 Ambiano
 
+Ice Cream Machine
+Peltier Effect
+Lidl SilverCrest
+
+SmartSolar Charge Controller
+  MPPT 75¦15
+  Please don't remove from Bitwäscherei / SGMK - needed for WildCamera
+  Built-in Bluetooth
+  Victron Energy B.V.
+  Battery 12/24V Auto Select
+  Rated Charge Current 15A
+  Nominal PV Power 12V: 220 W
+  Nominal PV Power 24V: 440 W
+  Max. PV short circuit 15A
+  Max. PV open circuit voltage 75V
+  Peak efficiency 98%
+  Self Consumption
+    12V Load on 19 mA Load off 10 mA
+    24V Load on 16 mA Load off 8 mA
+  Charging Voltages
+    Absorption: 14.4 V / 28.8 V
+    Float: 13.8 V / 27.6 V
+  Max. continuous load current: 15A
+
 Pizza stone - ceramic - for oven
 
 # Sensors
