@@ -50,6 +50,9 @@ DC-DC Converters Under 1 kW
   Isolated 5V In to 5V Out B0505S
   SIL Header
 L298N, ULN2003 and DRV8825 Motor Controllers - Stepper Motor Controllers
+Darlington Transistors - diverse
+  TIP122 NPN
+  TIP142 NPN
 
 # Refractory
 # Electrodes
@@ -118,12 +121,16 @@ Peristaltic pumps
 geared moter 12 r/min DC 12 V
 geared moter 200 r/min DC 12 V
 Crimp connecotrs, jaws and sleves - for peristaltic pump motors above
-Aquarium air difuser
+Aquarium air difusers
 Chocolate block screw connectors
 Float switches
 Magnesium granules
 European to UK electrical adapter
 3xT13 swiss electrical socket
+Waterproof Terminal Block - Delock IP678
+Car Radio Tools
+FE - Fehlerstromschutzschalter Model L7-4-63-030 - 3 phase In 0.03A - Type AC
+Kettle Lead - Swiss - 2m and 1.8 m Type J C13
 
 # Power Supplies (box not labelled)
 12v 20A DC PSU 12V Power Supply
@@ -131,6 +138,10 @@ European to UK electrical adapter
 DC-DC converters > 1 kW - buck and boost
 100 A DC panel meters
 Hydroelectric generator - small
+High voltage PSUs
+  HB-C02TE 100-240VAC Output: 3kV 30 mA - Hyright Lighting Co. Neon Sign Transformer
+  Small self-resonant - diverse
+240V 5V 2A PSUs
 
 # Unlabelled box
 Graphite plate c. 100 x 100 mm x 10 mm thick - in box
@@ -159,7 +170,8 @@ Safety glasses
 Parafilm M Laboratory Film
 Cell Culture Bottles - flat - rectangular - glass
 Sample Vials - glass
-Petry Dish - small - glass
+Petri Dish - small - glass
+Petri Dish - medium - glass x2
 Sample Vials - small and medium size - autoclavable - glass
 Methylene Blue
 Fluorescein Sulphate
@@ -207,7 +219,8 @@ Alumina Plate - Ceramic Plate - c. 100 x 100 mm - thin
 FeCrAl Heating Elements mounted on Schamottstein - not spelled Schamoltstein
 K Type Thermocouple and lead
 Refractory Brick from Michel Keramikbedarf keramikbedarf.ch
-Small mortar 
+Small Pestle and Mortar 
+Spare heating elemnt for pizza oven
 
 Copper tube - 4.0 mm, 3.0 mm, 2.0 mm Outer Diameter
 Tartaric Acid - Food Grade - 100g x 3 - Sealed
