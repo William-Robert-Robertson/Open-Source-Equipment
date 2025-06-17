@@ -9,6 +9,14 @@ Equipment List lists electronic, electrical, laboratory and electromechanical eq
 
 Equipment List listet elektronische, elektrische, labortechnische und elektromechanische Geräte auf, die von Mitgliedern der Bitwäscherei, der SGMK - Schweizerische Gesellschaft für Mechatronische Kunst, von Partnerunternehmen und Partnerorganisationen genutzt werden können.
 
-# Bibliothek-Library lists books.
+# Bibliothek-Library
 
-# For translation to other languages please ask me. 🙂
+Lists books.
+
+Listet Bücher auf.
+
+# Translation - Übersetzung
+
+For translation to other languages please ask me. 🙂
+
+Für Übersetzungen in andere Sprachen fragen Sie mich bitte. 🙂
