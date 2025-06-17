@@ -3,7 +3,7 @@
 
 🙂 Ausrüstung zur Nutzung von Bitwäscherei, SGMK – Schweizerische Gesellschaft für Mechatronische Kunst mechatronicart.ch und anderen Partnern
 
-# Equipment
+# [a relative link](Equipment%20List)Equipment
 
 Equipment List lists electronic, electrical, laboratory and electromechanical equipment available for use by members of Bitwäscherei, SGMK – Schweizerische Gesellschaft für Mechatronische Kunst, partner businesses and partner organisations.
 
