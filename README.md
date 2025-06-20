@@ -1,7 +1,7 @@
 # Open-Source-Equipment
-🙂 Equipment available for use by Bitwäscherei, SGMK – Schweizerische Gesellschaft für Mechatronische Kunst mechatronicart.ch and other partners
+🙂 Equipment and books available for use by Bitwäscherei, SGMK – Schweizerische Gesellschaft für Mechatronische Kunst mechatronicart.ch and other partners
 
-🙂 Ausrüstung zur Nutzung von Bitwäscherei, SGMK – Schweizerische Gesellschaft für Mechatronische Kunst mechatronicart.ch und anderen Partnern
+🙂 Ausrüstung und Bücher zur Nutzung von Bitwäscherei, SGMK – Schweizerische Gesellschaft für Mechatronische Kunst mechatronicart.ch und anderen Partnern
 
 # [Equipment List](Equipment%20List)
 
