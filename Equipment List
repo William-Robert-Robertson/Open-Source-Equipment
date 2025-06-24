@@ -202,11 +202,13 @@ Kettle Lead - Swiss - 2m and 1.8 m Type J C13
   www.pulspower.com
   www.pulspower.com
   https://products.pulspower.com/en/qs40-244.html
-  Data Sheets:
-    https://github.com/William-Robert-Robertson/Open-Source-Equipment/blob/main/Data%20Sheets/Puls%20Dimension%20QS40.244%20-%20qt40e242_2.pdf
-    https://github.com/William-Robert-Robertson/Open-Source-Equipment/blob/main/Data%20Sheets/Puls%20Dimension%20QS40.244%20-%20pu_qt40_242_4.pdf
+  Data Sheet:
+    https://github.com/William-Robert-Robertson/Open-Source-Equipment/blob/main/Data%20Sheets/Puls%20Dimension%20QS40.244%20-%20qs40e244_2.pdf
+  Insetallation Guide:
+    https://github.com/William-Robert-Robertson/Open-Source-Equipment/blob/main/Data%20Sheets/Puls%20Dimension%20QS40.244%20-%20pu_qs40_244_3.pdf
   Or down,load data sheets from:
-    https://products.pulspower.com/en/qt40-242.html
+    https://products.pulspower.com/en/qs40-244.html
+  Note that QS are single phase and QT are three phase.
 DC-DC converters > 1 kW - buck and boost
 100 A DC panel meters
 Hydroelectric generator - small
